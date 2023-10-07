@@ -1,6 +1,6 @@
 [Task 0.Where am I](https://github.com/Iaskasan/holbertonschool-shell/blob/master/basics/0-current_working_directory): A script that prints the absolute path name of the current working directory using "pwd" command
 
-Task 1. What’s in there?: A simple script that uses the "ls" command to list the content of the current directory
+[Task 1. What’s in there?](https://github.com/Iaskasan/holbertonschool-shell/blob/master/basics/1-listit): A simple script that uses the "ls" command to list the content of the current directory
 
 Task 2. There is no place like home: A script that changes the working directory to the user's home directory using "cd" command
 
