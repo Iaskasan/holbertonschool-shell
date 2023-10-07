@@ -2,17 +2,17 @@
 
 [Task 1. What’s in there?](https://github.com/Iaskasan/holbertonschool-shell/blob/master/basics/1-listit): A simple script that uses the "ls" command to list the content of the current directory
 
-Task 2. There is no place like home: A script that changes the working directory to the user's home directory using "cd" command
+[Task 2. There is no place like home](https://github.com/Iaskasan/holbertonschool-shell/blob/master/basics/2-bring_me_home): A script that changes the working directory to the user's home directory using "cd" command
 
-Task 3. The long format: A script that displays the current directory content in a long format using "ls -l" command
+[Task 3. The long format](https://github.com/Iaskasan/holbertonschool-shell/blob/master/basics/3-listfiles): A script that displays the current directory content in a long format using "ls -l" command
 
-Task 4. Hidden files: A script that displays hidden files in the current directory in long format using "ls -al" command
+[Task 4. Hidden files](https://github.com/Iaskasan/holbertonschool-shell/blob/master/basics/4-listmorefiles): A script that displays hidden files in the current directory in long format using "ls -al" command
 
-Task 5. I love numbers: A script the displays the curerent directory content in long format, with user ad group IDs displayed numerically and hidden files using "ls -na" command
+[Task 5. I love numbers](https://github.com/Iaskasan/holbertonschool-shell/blob/master/basics/5-listfilesdigitonly): A script the displays the curerent directory content in long format, with user ad group IDs displayed numerically and hidden files using "ls -na" command
 
-Task 6. Welcome: A script that creates a directory into a specified directory using "mkdir" command
+[Task 6. Welcome](https://github.com/Iaskasan/holbertonschool-shell/blob/master/basics/6-firstdirectory): A script that creates a directory into a specified directory using "mkdir" command
 
-Task 7. Betty in my first directory: A script that moves a file from one directory to another using the "mv" command
+[Task 7. Betty in my first directory](https://github.com/Iaskasan/holbertonschool-shell/blob/master/basics/7-movethatfile): A script that moves a file from one directory to another using the "mv" command
 
 Task 8. Bye bye Betty: A script that deletes a file in a specified directory using "rm" command
 
