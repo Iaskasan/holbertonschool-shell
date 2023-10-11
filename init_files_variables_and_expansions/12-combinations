@@ -1,3 +1,2 @@
 #!/bin/bash
-printf "%s\n" $(echo {a..z}{a..z}) | grep -v oo:wq
-²
+printf "%s\n" $(echo {a..z}{a..z}) | grep -v oo
