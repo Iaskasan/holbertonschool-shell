@@ -1,2 +1,2 @@
 #!/bin/bash
-echo *[!oo]*
+echo [aa-nn,pp-zz] | sort
